@@ -1,3 +1,3 @@
 # Our-thing
 
-This is only or anisha and aditya maurya to see
+This is only for anisha and aditya maurya to see
