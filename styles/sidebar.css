@@ -22,6 +22,38 @@
     background-color: rgb(235,235,235 );
 }
 
+
+
+
+
+
+.manage-subs{
+    padding: 10px 20px;
+    font: Roboto, Arial;
+    font-family: Roboto;
+    border: none;
+    color: #295ED3;
+    align-self: right;
+    border-radius: 20px;
+    z-index : 0;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.manage-subs:hover{
+    opacity: 1;
+    background-color: #E1F0FE;
+}
+
+.manage-subs:active{
+    background-color: #CAD8E4;
+}
+
+
+
+
+
+
 .sidebar-link img{
      height: 24px;
      margin-bottom: 4px;
