@@ -1,0 +1,32 @@
+            <div class="video-preview">
+                <div class="thumbnail-row">
+                    <a href="URLLLL">
+                        <img class="thumbnail" src="THUMBBBBBB" >
+                    </a>
+                    <div class="video-time">TTTTTTT</div>
+                </div>
+                <div class="video-info-grid">
+                    <div class="channel-picture">
+                        <img class="profile-picture" src="CCCCCCCC">
+                    </div>
+                    <div class="video-info">
+                        <a href="URLLLL">
+                            <p class="video-title">
+                                TITTLEEEEE
+                            </p>
+                        </a>
+                        <a href="CCCCHAANNNELLLINKKK">
+                            <p class="video-author">
+                                ccName
+                            </p>
+                        </a>
+                        <p class="video-stats">
+                            VVVVVVV views &#183; DUDUDU
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
