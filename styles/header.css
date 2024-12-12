@@ -157,8 +157,9 @@
 }
 
 .right-section{
-    margin-left: 20px;
-    flex: 0.55;
+    margin-left: 30px;
+    /* flex: 0.55; */
+    width: 125px;
     display: flex;
     align-items: center;
     justify-content: space-between;
